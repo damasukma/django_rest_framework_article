@@ -1,0 +1,4 @@
+.idea/
+my_notes_api/__pycache__
+blog/__pycache__
+blog/migrations/__pycache__
